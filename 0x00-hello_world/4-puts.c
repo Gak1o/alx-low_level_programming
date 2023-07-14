@@ -1,9 +1,10 @@
 #include<stdio.h>
 
 /**
-*main - starting point of program
+*main - prints "programming is like building a multilingual puzzle,
 *puts -prints to screen
-*return - returns 0
+*
+*Return: returns 0
 */
 int main(void)
 {
